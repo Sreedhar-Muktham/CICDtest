@@ -1,1 +1,1 @@
-Hi Welcome to Github
+echo "Hi Welcome to Github"
